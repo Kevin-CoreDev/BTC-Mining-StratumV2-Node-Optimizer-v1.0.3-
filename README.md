@@ -23,3 +23,11 @@ The optimized packets are then forwarded to your official mining pool’s addres
 3. Locate the **`start.bat`** file and double-click it to launch the node installation wizard.
 
 *Note: The `start.bat` script is a transparent launcher that securely connects the local network socket to the Blockois stratum proxy. Do not close the command window after launching it; you can minimize it to the taskbar. You can proceed with the necessary installations to launch it smoothly.
+
+
+<img width="1389" height="627" alt="blockois (2)" src="https://github.com/user-attachments/assets/6e570487-f2a5-4baf-9ddf-2443362546b4" />
+
+
+
+<img width="1387" height="502" alt="blockois (3)" src="https://github.com/user-attachments/assets/04ce5f8f-2ddf-4317-b4ee-1175083c565a" />
+
